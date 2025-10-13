@@ -6,6 +6,7 @@ A collection of coding problems, algorithms, and data structure implementations 
 ## Array
 |  |
 | ------- |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/sneharathod7/PracticeQ/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/sneharathod7/PracticeQ/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/sneharathod7/PracticeQ/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/sneharathod7/PracticeQ/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -22,6 +23,7 @@ A collection of coding problems, algorithms, and data structure implementations 
 ## Hash Table
 |  |
 | ------- |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/sneharathod7/PracticeQ/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/sneharathod7/PracticeQ/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Two Pointers
 |  |
@@ -39,6 +41,7 @@ A collection of coding problems, algorithms, and data structure implementations 
 ## Sorting
 |  |
 | ------- |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/sneharathod7/PracticeQ/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/sneharathod7/PracticeQ/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Counting
 |  |
@@ -60,4 +63,8 @@ A collection of coding problems, algorithms, and data structure implementations 
 |  |
 | ------- |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/sneharathod7/PracticeQ/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## String
+|  |
+| ------- |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/sneharathod7/PracticeQ/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 <!---LeetCode Topics End-->
