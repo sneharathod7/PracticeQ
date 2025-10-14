@@ -9,6 +9,7 @@ A collection of coding problems, algorithms, and data structure implementations 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sneharathod7/PracticeQ/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/sneharathod7/PracticeQ/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/sneharathod7/PracticeQ/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/sneharathod7/PracticeQ/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/sneharathod7/PracticeQ/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/sneharathod7/PracticeQ/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Simulation
