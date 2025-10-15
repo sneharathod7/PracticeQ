@@ -6,6 +6,7 @@ A collection of coding problems, algorithms, and data structure implementations 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sneharathod7/PracticeQ/tree/master/0075-sort-colors) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sneharathod7/PracticeQ/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/sneharathod7/PracticeQ/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/sneharathod7/PracticeQ/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -29,6 +30,7 @@ A collection of coding problems, algorithms, and data structure implementations 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sneharathod7/PracticeQ/tree/master/0075-sort-colors) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/sneharathod7/PracticeQ/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Binary Search
 |  |
@@ -42,6 +44,7 @@ A collection of coding problems, algorithms, and data structure implementations 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sneharathod7/PracticeQ/tree/master/0075-sort-colors) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sneharathod7/PracticeQ/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/sneharathod7/PracticeQ/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Counting
