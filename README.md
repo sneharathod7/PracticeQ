@@ -8,6 +8,7 @@ A collection of coding problems, algorithms, and data structure implementations 
 | ------- |
 | [0075-sort-colors](https://github.com/sneharathod7/PracticeQ/tree/master/0075-sort-colors) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sneharathod7/PracticeQ/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/sneharathod7/PracticeQ/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/sneharathod7/PracticeQ/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/sneharathod7/PracticeQ/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/sneharathod7/PracticeQ/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -26,6 +27,7 @@ A collection of coding problems, algorithms, and data structure implementations 
 |  |
 | ------- |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sneharathod7/PracticeQ/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/sneharathod7/PracticeQ/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/sneharathod7/PracticeQ/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Two Pointers
 |  |
@@ -54,6 +56,7 @@ A collection of coding problems, algorithms, and data structure implementations 
 ## Math
 |  |
 | ------- |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/sneharathod7/PracticeQ/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/sneharathod7/PracticeQ/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Bit Manipulation
 |  |
@@ -71,4 +74,8 @@ A collection of coding problems, algorithms, and data structure implementations 
 |  |
 | ------- |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sneharathod7/PracticeQ/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+## Greedy
+|  |
+| ------- |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/sneharathod7/PracticeQ/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 <!---LeetCode Topics End-->
